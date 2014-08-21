@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PIN Shortcuts</string>
+    <string name="title_activity_main">PIN/Password shortcuts</string>
+    <string name="normal_password">Please enter your normal Android password (to auto-unlock after opening shortcut)</string>
+    <string name="normal_password_eg">EG: 1234</string>
+    <string name="add_shortcut">Add Shortcut</string>
+    <string name="title_activity_shortcut_creator">ShortcutCreator</string>
+    <string name="password_to_trigger">Password to trigger this shortcut</string>
+    <string name="select_app_hint">Please select app to launch when this shortcut is triggered</string>
+    <string name="choose_app">Choose app</string>
+    <string name="save">Save</string>
+    <string name="version">Version 2.0.1</string>
+    <string name="Settings">Settings</string>
+    <string name="XDA">XDA Thread</string>
+    <string name="intro">This mod lets you open different apps depending on the password entered. It is to allow you to use shortcuts, it is NOT for security and infact reduces security. Please read the XDA thread for more information and example usage</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="remove_shortcut">Remove Shortcut</string>
+    <string name="title_activity_pattern_shortcuts">Pattern Shortcuts</string>
+    <string name="setnormal">Set normal password</string>
+    <string name="setNormalPattern">Set normal pattern</string>
+    <string name="title_activity_shortcut_creator_pattern">ShortcutCreatorPattern</string>
+    <string name="pattern_to_trigger">Record pattern which will trigger this shortcut</string>
+
+</resources>
